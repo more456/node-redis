@@ -40,7 +40,7 @@
     "denque": "^1.4.1",
     "redis-commands": "^1.5.0",
     "redis-errors": "^1.2.0",
-    "redis-parser": "^3.0.0"
+    "redis-parser": "git+https://github.com/more456/node-redis-parser.git"
   },
   "engines": {
     "node": ">=6"
